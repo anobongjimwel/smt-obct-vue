@@ -5,13 +5,13 @@ Jimwel Anobong's take on SMT's applicatants' exam (VueJs Frontend)
 To start the front end side, you need to do the following:
   1. Open ***Terminal*** or ***Command Prompt***
   2. Change directory to the location of the project
-    ``` bash
-      cd /path/to/project
-    ```
+```bash
+  cd /path/to/project
+```
   3. Type the following
-    ``` bash
-      npm run serve
-    ```
+```bash
+  npm run serve
+```
   4. Open an instance of your preferred browser
   5. Type `http://localhost:3001` the address bar
   
